@@ -1,4 +1,4 @@
-# Ray Tracing and Projection Toolkit
+# Ray Tracing and Projection
 
 This project includes Python scripts for basic computer graphics techniques including ray tracing, 3D-to-2D projection, and 2D shape visualization.
 
